@@ -24,10 +24,10 @@ I have included a webpack.config.js to configure the webpack.
 
 To start the project  do a npm install.
 
-For running a build in development mode
+For running a build in development mode -
     npm run build 
 
-For running a build in production mode
+For running a build in production mode -  
     npm run build:prod
     
     
