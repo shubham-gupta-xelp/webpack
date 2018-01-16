@@ -1,5 +1,5 @@
 # webpack
-# webpack-beiginer
+# webpack-beginner
 This project is about how to use webpack.
 
 In this we will learn about how to install webpack and webpack dev server.
